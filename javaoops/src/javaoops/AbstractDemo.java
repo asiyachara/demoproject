@@ -57,7 +57,7 @@ abstract class Shape
 		 System.out.println("Circle Area:"+circle.calculateArea());
 		 System.out.println("Circle perimeter:"+circle.calculateperimeter());
 		 System.out.println("triangle Area:"+triangle.calculateArea());
-		 System.out.println("triangle p:"+triangle.calculateperimeter());
+		 System.out.println("triangle perimeter:"+triangle.calculateperimeter());
 		 
 	 }
  
