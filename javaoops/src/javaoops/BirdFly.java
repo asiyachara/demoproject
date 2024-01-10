@@ -10,7 +10,7 @@ class Eagle extends Bird
 {
 	public void fly()
 	{
-		System.out.println("Eagle will flew in very high in the sky");
+		System.out.println("Eagle will flew in very high");
 	}
 	public void Sound()
 	{
